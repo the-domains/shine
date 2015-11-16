@@ -1,0 +1,23 @@
+name: Shine
+favicon: null
+layout_spectrum: 0.719030142063275
+typography_spectrum: 0.6403182360809296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9161392643582076
+  lightness: 0.9670501542277634
+  saturation: 0.17620787536725402
+  rhythmicContrast: 0.7092919829301536
+purpose: []
